@@ -66,12 +66,6 @@
                 <li><strong>c)</strong> Si radio y masa se redujeran a un tercio, ¿la densidad sería la misma?</li>
             </ul>
         </section>
-                <section class="esquemaProblema">
-            <h2>Esquema</h2>
-            <center>
-                <img class="imgProblema" src="images/tren.png" alt="Esquema del problema">
-            </center>
-        </section>
         <section class="resultado">
             <h2>Resultados:</h2>
             <?php
