@@ -2,12 +2,13 @@
 <html lang="es-mx">
 <head>
     <meta charset="UTF-8">
-    <title>Calcular Fórmulas</title>
+    <title>IntroPhp7 Grupo X__</title>
     <link rel="stylesheet" href="css/estilos.css"/>
     <link rel="stylesheet" href="css/menu.css"/>
+    <link rel="stylesheet" href="css/problemas.css"/>
     <link href="https://fonts.googleapis.com/css?family=Rambla" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
-</head>
+    </head>
 <body>
 <section class="wrapper">
     <header>
@@ -65,19 +66,11 @@
                 <li><strong>c)</strong> Si radio y masa se redujeran a un tercio, ¿la densidad sería la misma?</li>
             </ul>
         </section>
-               <section class="esquemaProblema">
+                <section class="esquemaProblema">
             <h2>Esquema</h2>
             <center>
                 <img class="imgProblema" src="images/tren.png" alt="Esquema del problema">
             </center>
-        </section>
-        <section class="formulas">
-            <h2>Fórmulas</h2>
-            <ul>
-                <li><strong>Velocidad final:</strong>v=v_0+a⋅t</li>
-                <li><strong>Espacio recorrido:</strong>x=v_0⋅t+1/2⋅a⋅t^2</li>
-                <li><strong>Tiempo total:</strong>t=√2*x_f/a</li>
-            </ul>
         </section>
         <section class="resultado">
             <h2>Resultados:</h2>
