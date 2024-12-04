@@ -66,6 +66,34 @@
                 <li><strong>c)</strong> Si radio y masa se redujeran a un tercio, ¿la densidad sería la misma?</li>
             </ul>
         </section>
+        <section class="esquemaProblema">
+            <h2>Esquema</h2>
+            <center>
+                <img class="imgProblema" src="images/tren.png" alt="Esquema del problema">
+            </center>
+        </section>
+        <section class="formulas">
+            <h2>Fórmulas</h2>
+            <ul>
+                <li><strong>Velocidad final:</strong>v=v_0+a⋅t</li>
+                <li><strong>Espacio recorrido:</strong>x=v_0⋅t+1/2⋅a⋅t^2</li>
+                <li><strong>Tiempo total:</strong>t=√2*x_f/a</li>
+            </ul>
+        </section>
+        <section class="esquemaProblema">
+            <h2>Esquema</h2>
+            <center>
+                <img class="imgProblema" src="images/tren.png" alt="Esquema del problema">
+            </center>
+        </section>
+        <section class="formulas">
+            <h2>Fórmulas</h2>
+            <ul>
+                <li><strong>Velocidad final:</strong>v=v_0+a⋅t</li>
+                <li><strong>Espacio recorrido:</strong>x=v_0⋅t+1/2⋅a⋅t^2</li>
+                <li><strong>Tiempo total:</strong>t=√2*x_f/a</li>
+            </ul>
+        </section>
         <section class="resultado">
             <h2>Resultados:</h2>
             <?php
