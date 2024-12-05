@@ -39,8 +39,8 @@
             <p>Masa: 5.97E24 Kg</p>
             <p>Radio: 6378 Km</p>
             <center>
-                <img class="imgProblema" src="images/problema.png" alt="Imagen de la Tierra">
-                <img class="imgProblema" src="images/tren.png" alt="Fórmula del volumen">
+                <img class="imgProblema" src="images/tierra.png" alt="Imagen de la Tierra">
+                <img class="imgProblema" src="images/volumen.png" alt="Fórmula del volumen">
             </center>
         </section>
         <section class="calculos">
