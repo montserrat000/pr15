@@ -3,10 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <title>CiTIM Grupo XB</title>
-    <link rel="stylesheet" href="css/estilos.css"/>
-        <link rel="stylesheet" href="css/menu.css"/>
-        <link rel="stylesheet" href="css/problemas.css"/>
+    <link rel="stylesheet" href="css/problemaStem.css"/>
     <link href="https://fonts.googleapis.com/css?family=Comfortaa" rel="stylesheet">
+    <style>
+        /* Añadimos estilos para flexbox */
+        .esquemaProblema {
+            display: flex;
+            align-items: center; /* Centra verticalmente */
+            justify-content: flex-start; /* Alinea a la izquierda */
+            gap: 20px; /* Espaciado entre elementos */
+        }
+        .imgProblema {
+            max-width: 200px; /* Tamaño máximo de la imagen */
+            height: auto; /* Mantiene proporción */
+        }
+    </style>
 </head>
 <body>
 <section class="wrapper">
@@ -26,9 +37,11 @@
         </section>
         <section class="esquemaProblema">
             <h2>Esquema</h2>
-            <center>
-                <img class="imgProblema" src="images/tren.png" alt="Esquema del problema">
-            </center>
+            <img class="imgProblema" src="images/tren.png" alt="Esquema del problema">
+            <p>
+                Este esquema representa un tren que arranca desde el reposo con una aceleración constante de 8 cm/s². 
+                Vamos a calcular los parámetros del movimiento uniformemente acelerado.
+            </p>
         </section>
         <section class="formulas">
             <h2>Fórmulas</h2>
